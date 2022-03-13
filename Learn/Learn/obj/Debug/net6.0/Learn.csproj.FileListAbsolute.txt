@@ -1,0 +1,15 @@
+D:\program\gitHub_projects\CSharp\Learn\Learn\bin\Debug\net6.0\Learn.exe
+D:\program\gitHub_projects\CSharp\Learn\Learn\bin\Debug\net6.0\Learn.deps.json
+D:\program\gitHub_projects\CSharp\Learn\Learn\bin\Debug\net6.0\Learn.runtimeconfig.json
+D:\program\gitHub_projects\CSharp\Learn\Learn\bin\Debug\net6.0\Learn.dll
+D:\program\gitHub_projects\CSharp\Learn\Learn\bin\Debug\net6.0\Learn.pdb
+D:\program\gitHub_projects\CSharp\Learn\Learn\obj\Debug\net6.0\Learn.csproj.AssemblyReference.cache
+D:\program\gitHub_projects\CSharp\Learn\Learn\obj\Debug\net6.0\Learn.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\gitHub_projects\CSharp\Learn\Learn\obj\Debug\net6.0\Learn.AssemblyInfoInputs.cache
+D:\program\gitHub_projects\CSharp\Learn\Learn\obj\Debug\net6.0\Learn.AssemblyInfo.cs
+D:\program\gitHub_projects\CSharp\Learn\Learn\obj\Debug\net6.0\Learn.csproj.CoreCompileInputs.cache
+D:\program\gitHub_projects\CSharp\Learn\Learn\obj\Debug\net6.0\Learn.dll
+D:\program\gitHub_projects\CSharp\Learn\Learn\obj\Debug\net6.0\refint\Learn.dll
+D:\program\gitHub_projects\CSharp\Learn\Learn\obj\Debug\net6.0\Learn.pdb
+D:\program\gitHub_projects\CSharp\Learn\Learn\obj\Debug\net6.0\Learn.genruntimeconfig.cache
+D:\program\gitHub_projects\CSharp\Learn\Learn\obj\Debug\net6.0\ref\Learn.dll
