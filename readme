@@ -1,0 +1,11 @@
+# Новая папка с именем _aspnetapp_
+## веб-приложение
+---
+dotnet new mvc -au None -o aspnetapp 
+---
+
+# Новая папка с именем _myapp_
+## программа на C#
+---
+donet new concole -o myapp
+---
