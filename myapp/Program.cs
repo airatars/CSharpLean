@@ -6,8 +6,5 @@
 		{
 			System.Console.WriteLine("HelloWorld");
 		}
-        static void Min(){
-
-        }
 	}
 }
