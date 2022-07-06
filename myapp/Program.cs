@@ -1,10 +1,8 @@
-﻿namespace HelloWorld
+﻿using System;
+public class Program
 {
-    public class Program
-    {
-		static void Main()
-		{
-			System.Console.WriteLine("HelloWorld");
-		}
+	public static void Main()
+	{
+		Console.WriteLine("Периметр равен");
 	}
 }
